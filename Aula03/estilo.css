@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+
+}
+
+div{
+    width: 50%;
+    height: 25%;
+    background-color: yellow;
+    padding: 15px;
+    border-radius: 300px;
+    /*transition: 2000ms;*/
+
+}
