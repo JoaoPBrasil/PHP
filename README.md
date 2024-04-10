@@ -10,3 +10,10 @@ En: PHP programming language study repository.
 Pt-BR: A pasta "Exercises" corresponde as atividades realizadas utilizando a linguagem PHP, na faculdade.
 
 En: The "Exercises" folder corresponds to activities carried out using the PHP language, in the College.
+
+## Contribuições
+
+Pt-BR: Feito em conjunto com @WiniciusNeves (https://github.com/WiniciusNeves)
+
+En: Coded in partnership with @WiniciusNeves (https://github.com/WiniciusNeves)
+
